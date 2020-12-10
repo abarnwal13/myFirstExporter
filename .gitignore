@@ -1,0 +1,24 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# Eclipse IDE files
+.classpath
+.project
+.settings
+.idea
+
+# Maven build artifacts
+target
+dependency-reduced-pom.xml
